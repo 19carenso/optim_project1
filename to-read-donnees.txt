@@ -1,0 +1,18 @@
+############ GROUPE 1 : fichier data_SOC_GR1 ##########################
+
+Le fichier contient trois colonnes correspondant chacune à un signal : 
+* temps (en seconde)
+* intensité traversant la batterie (en Ampère)
+* état de charge de la batterie
+Le fichier contient 299 lignes
+
+
+############ GROUPE 4 : fichier data_temp_GR4 ##########################
+
+Le fichier contient quatre colonnes correspondant chacune à un signal : 
+* temps (en heure)
+* température dans la maison (en degré celsius)
+* flux solaire (en W/m2)
+* température extérieure (en degré celsius)
+Le fichier contient 144 lignes
+
